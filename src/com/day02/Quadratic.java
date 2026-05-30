@@ -1,4 +1,4 @@
-package com.Day02;
+package com.day02;
 import java.util.*;
 public class Quadratic {
 public static void main(String[] args) {

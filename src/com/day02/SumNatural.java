@@ -1,4 +1,4 @@
-package com.Day02;
+package com.day02;
 import java.util.*;
 public class SumNatural {
 public static void main(String[] args) {
